@@ -75,6 +75,7 @@ Alta
 
 **Evidências:**
 https://drive.google.com/drive/folders/17uOtV6boHq60-1RtfEIzPVOv4CFU5meV
+
 ---
 
 ## Bug 04 — Campos de texto não possuem limite de caracteres e quebram o layout
@@ -96,6 +97,7 @@ Média
 
 **Evidências:**
 https://drive.google.com/drive/folders/1gKlq3sNn7N87f_NfOdDdD0GeaR16ijb1
+
 ---
 
 ## Bug 05 — Sistema permite cadastrar curso com data final menor que a data inicial
@@ -118,6 +120,7 @@ Alta
 
 **Evidências:**
 https://drive.google.com/drive/folders/1fS9w3h9u8D770c5u2Q8EDpQl7iNZfC6w
+
 ---
 
 # Bugs — Listagem de Cursos
@@ -158,6 +161,7 @@ Média
 
 **Evidências:**
 https://drive.google.com/drive/folders/1VNAoltHZPYvllFo9_206aag2GlW9VbWZ
+
 ---
 
 ## Bug 08 — Informação do instrutor não é exibida na listagem de cursos
@@ -176,7 +180,7 @@ A listagem deve exibir corretamente a informação do instrutor para cada curso.
 Média
 
 **Evidências:**
-Link do Google Drive
+https://drive.google.com/drive/folders/1KitDLmPFwHJpW0MGiIAGimrsy9McuTZR
 
 ---
 
