@@ -165,7 +165,7 @@ https://drive.google.com/drive/folders/1vXLVH09ueRypOoSETVTi7mGrZTbF7guV
 |-----|-----|
 | Aplicação testada | https://creative-sherbet-a51eac.netlify.app/ |
 | Navegador | Google Chrome |
-| Sistema operacional | Windows |
+| Sistema operacional | Windows 11 PRO |
 | Tipo de testes | Testes funcionais manuais |
 | Data da execução | Março de 2026 |
 
